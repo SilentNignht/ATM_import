@@ -1,0 +1,4 @@
+pymysql==1.0.2
+requests==2.27.1
+SQLAlchemy==1.4.36
+alembic==1.7.7

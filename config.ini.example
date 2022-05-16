@@ -1,0 +1,6 @@
+[atm-import]
+mysql_hostname =
+mysql_username = 
+mysql_password = 
+mysql_database =
+here_apikey =
